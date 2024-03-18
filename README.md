@@ -1,0 +1,1 @@
+This is a small project like Accordion developed in React. This project consist of a list of questions along with answers will be displayed only when user want to see it (onclick expand and collapse functionality).
